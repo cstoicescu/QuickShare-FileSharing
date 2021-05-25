@@ -1,6 +1,6 @@
 ## About  
 
-### Quickshare is FileSharing webapp which uses Firebase cloud for storage, auth, notifications, etc. 
+### Quickshare is a FileSharing webapp which uses Firebase cloud for storage, auth, notifications, etc. 
 
 It's main purpose is, as the description suggest, file-sharing. 
 
