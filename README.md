@@ -9,7 +9,12 @@ Then, the user can copy the link and give it to another users, for them to downl
 
 ### Demo:  
 ![demo_short](https://user-images.githubusercontent.com/53979557/119478228-4fe34c00-bd58-11eb-940a-51391f55fa3e.gif)
-
+### Proof Of Working   
+You can download the files i just have uploaded from here:  
+- [Queen - Don't stop me now](https://firebasestorage.googleapis.com/v0/b/quickshare-dev.appspot.com/o/files%2FB4PBYxg9R6bkCILsSwcAuJYV8JJ3%2FQueen%20%20Dont%20Stop%20Me%20Now%20Official%20Video.mp4?alt=media&token=8cceca0b-7c21-44cc-8b65-18006e227bd2 "Queen - Don't Stop Me Now")  
+- [The XX - Intro](https://firebasestorage.googleapis.com/v0/b/quickshare-dev.appspot.com/o/files%2FB4PBYxg9R6bkCILsSwcAuJYV8JJ3%2Fxx.mp4?alt=media&token=15586487-da3a-4d7c-8488-09aa975d91af "The XX - Intro")  
+ 
+  
 Features: 
 -	Authentication, 
 -	Databases,
